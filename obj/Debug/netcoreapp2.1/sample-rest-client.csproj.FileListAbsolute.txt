@@ -1,0 +1,15 @@
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/sample-rest-client.deps.json
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/sample-rest-client.runtimeconfig.json
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/sample-rest-client.runtimeconfig.dev.json
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/sample-rest-client.dll
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/sample-rest-client.pdb
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/obj/Debug/netcoreapp2.1/sample-rest-client.csprojAssemblyReference.cache
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/obj/Debug/netcoreapp2.1/sample-rest-client.csproj.CoreCompileInputs.cache
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/obj/Debug/netcoreapp2.1/sample-rest-client.AssemblyInfoInputs.cache
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/obj/Debug/netcoreapp2.1/sample-rest-client.AssemblyInfo.cs
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/obj/Debug/netcoreapp2.1/sample-rest-client.dll
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/obj/Debug/netcoreapp2.1/sample-rest-client.pdb
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/abigailbeets/workspace/practice/c-sharp/sample-rest-client/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
